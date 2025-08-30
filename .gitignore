@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!LICENSE
+!main.go
+!go.mod
